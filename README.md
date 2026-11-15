@@ -24,3 +24,9 @@ Repository Settings → Pages → Deploy from a branch → `main` / `/(root)` �
 
 ## 면책
 본 프로젝트는 비공식 팬 제작 데이터베이스입니다. 건담 및 관련 명칭·저작권은 각 권리자에게 있습니다.
+
+## 이번 데이터 출처 보강 (U.C. 0083)
+- GP01 제피랜서스의 형식번호·제원·개발 배경·코어 블록 시스템·무장: [BANDAI HOBBY 공식 웹 취급설명서](https://manual.bandai-hobby.net/pdf/213.pdf)
+- GP01Fb 풀버니언의 형식번호와 작품 분류: [BANDAI HOBBY 공식 제품·취급설명서 페이지](https://manual.bandai-hobby.net/menus/detail/665)
+- OVA 에피소드별 사건 개요 및 GP01의 풀버니언 환장 설명: [Apple TV 작품·에피소드 소개](https://tv.apple.com/jp/show/%E6%A9%9F%E5%8B%95%E6%88%B0%E5%A3%AB%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%A00083-stardust-memory/umc.cmc.5mhepb1k8j7zhjpkaibyt3ads)
+- 공식 설명서의 이미지·본문을 사이트에 복제하지 않고 원문 링크와 사실 데이터만 정리합니다. 매체별 표현이 다르거나 수치가 확인되지 않은 항목은 미확정으로 남깁니다.
